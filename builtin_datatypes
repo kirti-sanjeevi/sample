@@ -1,0 +1,22 @@
+void main(){
+
+int marks = 92;  //int
+var count = 92;
+int hexValue = 0xEADEBAEE;
+
+String name = "lisa";  //Strings
+var app = "youtube";
+
+double height = 5.7;  //double
+var height = 6.0;
+double exponents = 1.42e5;
+
+bool isVaild = true; //boolean
+var isAlive = false;
+
+print(marks);
+print(name);
+
+}
+
+
